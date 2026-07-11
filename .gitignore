@@ -1,2 +1,2 @@
-digit_fraction
-*.o
+__pycache__/
+*.pyc
